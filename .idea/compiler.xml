@@ -6,11 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="first-ek-service-invoker" />
+        <module name="first-cloud-provider" />
+        <module name="first-cloud-rest-client" />
+        <module name="boot-config-file" />
+        <module name="first-cloud-invoker" />
+        <module name="env-test" />
         <module name="first-ek-server" />
         <module name="first-ek-service-provider" />
-        <module name="boot-config-file" />
-        <module name="env-test" />
+        <module name="first-cloud-server" />
+        <module name="first-ek-service-invoker" />
+        <module name="health-handler-server" />
+        <module name="health-handler-invoker" />
+        <module name="health-handler-provider" />
       </profile>
     </annotationProcessing>
   </component>

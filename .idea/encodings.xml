@@ -3,8 +3,15 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/boot-config-file/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/env-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-cloud-invoker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-cloud-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-cloud-rest-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-cloud-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/first-ek-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/first-ek-service-invoker/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/first-ek-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-handler-invoker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-handler-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health-handler-server/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -9,11 +9,22 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
+        <!--02-->
         <module>env-test</module>
         <module>boot-config-file</module>
+        <!--3.2-->
         <module>first-ek-server</module>
         <module>first-ek-service-provider</module>
         <module>first-ek-service-invoker</module>
+        <!--3.3-->
+        <module>first-cloud-server</module>
+        <module>first-cloud-provider</module>
+        <module>first-cloud-invoker</module>
+        <module>first-cloud-rest-client</module>
+        <!---->
+        <module>health-handler-invoker</module>
+        <module>health-handler-provider</module>
+        <module>health-handler-server</module>
 
     </modules>
 
