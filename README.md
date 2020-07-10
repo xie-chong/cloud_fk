@@ -25,4 +25,15 @@
     - cloud-server
   - 4.5
     - rest-template-test
+- 05
+  - 5.1
+    - feign-client
+    - rest-client
+    - rest-server
+  - 5.2
+    - feign-use
+  - 5.3 
+    - spring-feign-invoker
+    - spring-feign-provider
+    - spring-feign-server
     
