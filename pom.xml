@@ -25,6 +25,21 @@
         <module>health-handler-invoker</module>
         <module>health-handler-provider</module>
         <module>health-handler-server</module>
+        <!--4.2-->
+        <module>first-ribbon-client</module>
+        <module>first-ribbon-server</module>
+        <!--4.4-->
+        <module>cloud-invoker</module>
+        <module>cloud-provider</module>
+        <module>cloud-server</module>
+        <!--4.5-->
+        <module>rest-template-test</module>
+
+
+
+
+
+
 
     </modules>
 
